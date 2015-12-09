@@ -1,0 +1,30 @@
+@import (reference) "../_variables.less";
+
+.text-defaults {
+	direction: @tabula-rasa-writing-direction;
+	hanging-punctuation: first;
+	hyphens: manual;
+ 	letter-spacing: normal;
+ 	line-break: auto;
+	line-height: normal;
+	overflow-wrap: normal;
+	tab-size: 8;
+	text-align: left; // TODO: set as variable dependent on general text direction (ltr/rtl) 
+	text-align-last: auto;
+	text-combine-upright: none;
+    text-decoration : none;
+    text-decoration-color : inherit;
+    text-decoration-line : none;
+    text-decoration-style : solid;
+	text-indent: 0;
+	text-justify: auto;
+	text-orientation: mixed;
+    text-shadow : none;
+	text-transform: none;
+	text-underline-position: auto;
+	white-space: normal;
+	word-break: normal;
+	word-spacing: normal;
+	word-wrap: normal;
+	writing-mode: horizontal-tb; // Still experimental (TODO incl as variable when stable) https://developer.mozilla.org/en/docs/Web/CSS/writing-mode
+};

@@ -1,0 +1,14 @@
+.flexbox-defaults {
+  align-content: stretch;
+  align-items: stretch;
+  align-self: auto;
+  flex: 0 1 auto;
+  flex-basis: auto;
+  flex-direction: row;
+  flex-flow: row nowrap;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  order: 0;
+}

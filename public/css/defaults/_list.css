@@ -1,0 +1,8 @@
+.list-defaults {
+  counter-increment: none;
+  counter-reset: none;
+  list-style: disc outside none;
+  list-style-image: none;
+  list-style-position: outside;
+  list-style-type: disc;
+}

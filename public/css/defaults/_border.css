@@ -1,0 +1,33 @@
+.border-defaults {
+  border: medium none transparent;
+  border-bottom: medium none transparent;
+  border-bottom-color: transparent;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-style: none;
+  border-bottom-width: medium;
+  border-color: transparent;
+  border-image: none 100% 1 0 stretch;
+  border-image-outset: 0;
+  border-image-repeat: repeat;
+  border-image-slice: 100%;
+  border-image-source: none;
+  border-image-width: medium;
+  border-left: medium none transparent;
+  border-left-color: transparent;
+  border-left-style: none;
+  border-left-width: medium;
+  border-radius: 0;
+  border-right: medium none transparent;
+  border-right-color: transparent;
+  border-right-style: none;
+  border-right-width: medium;
+  border-style: none;
+  border-top: medium none transparent;
+  border-top-color: transparent;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-top-style: none;
+  border-top-width: medium;
+  border-width: 0;
+}

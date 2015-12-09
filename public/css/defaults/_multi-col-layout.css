@@ -1,0 +1,16 @@
+.multi-col-layout-defaults {
+  break-after: auto;
+  break-before: auto;
+  break-inside: auto;
+  columns: auto;
+  column-count: auto;
+  column-fill: balance;
+  column-gap: normal;
+  column-rule: medium none currentColor;
+  column-rule-color: currentColor;
+  column-rule-style: none;
+  column-rule-width: none;
+  column-span: 1;
+  column-width: auto;
+  widows: 2;
+}

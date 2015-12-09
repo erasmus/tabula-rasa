@@ -1,0 +1,152 @@
+@import (reference) "defaults/_background.less";
+@import (reference) "defaults/_basic-UI.less";
+@import (reference) "defaults/_border.less";
+@import (reference) "defaults/_box.less";
+@import (reference) "defaults/_color.less";
+@import (reference) "defaults/_flexbox.less";
+@import (reference) "defaults/_font.less";
+@import (reference) "defaults/_image.less";
+@import (reference) "defaults/_list.less";
+@import (reference) "defaults/_misc.less";
+@import (reference) "defaults/_multi-col-layout.less";
+@import (reference) "defaults/_paged-media.less";
+@import (reference) "defaults/_table.less";
+@import (reference) "defaults/_text.less";
+@import (reference) "defaults/_transform.less";
+@import (reference) "defaults/_transition.less";
+
+.tabula-rasa {
+	a,
+	abbr,
+	address,
+	area,
+	article,
+	aside,
+	audio,
+	b,
+	base,
+	bdi,
+	bdo,
+	bgsound,
+	blockquote,
+	br,
+	button,
+	canvas,
+	caption,
+	cite,
+	code,
+	col,
+	colgroup,
+	command,
+	content,
+	data,
+	datalist,
+	dd,
+	del,
+	details,
+	dfn,
+	div,
+	dl,
+	dt,
+	element,
+	em,
+	embed,
+	fieldset,
+	figcaption,
+	figure,
+	font,
+	footer,
+	form,
+	head,
+	header,
+	hgroup,
+	hr,
+	html,
+	i,
+	iframe,
+	img,
+	input,
+	ins,
+	kbd,
+	keygen,
+	label,
+	legend,
+	li,
+	link,
+	main,
+	map,
+	mark,
+	menu,
+	menuitem,
+	meta,
+	meter,
+	nav,
+	nobr,
+	noframes,
+	noscript,
+	object,
+	ol,
+	optgroup,
+	option,
+	output,
+	p,
+	param,
+	picture,
+	pre,
+	progress,
+	q,
+	rp,
+	rt,
+	rtc,
+	ruby,
+	s,
+	samp,
+	script,
+	section,
+	select,
+	shadow,
+	small,
+	source,
+	span,
+	strong,
+	style,
+	sub,
+	summary,
+	sup,
+	table,
+	tbody,
+	td,
+	template,
+	textarea,
+	tfoot,
+	th,
+	thead,
+	time,
+	title,
+	tr,
+	track,
+	u,
+	ul,
+	var,
+	video,
+	wbr {
+		all: initial; // Global reset. Not supported in Safari & IE https://drafts.csswg.org/css-cascade/#all-shorthand
+	
+		.background-defaults();
+		.basic-UI-defaults();
+		.border-defaults();
+		.box-defaults();
+		.color-defaults();
+		.flexbox-defaults();
+		.font-defaults();
+		.image-defaults();
+		.list-defaults();
+		.misc-defaults();
+		.multi-col-layout-defaults();
+		.paged-media-defaults();
+		.table-defaults();
+		.text-defaults();
+		.transform-defaults();
+		.transition-defaults();
+	}
+}

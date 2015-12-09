@@ -1,0 +1,12 @@
+.background-defaults {
+  background: transparent;
+  background-attachment: scroll;
+  background-blend-mode: normal;
+  background-clip: border-box;
+  background-color: transparent;
+  background-image: none;
+  background-origin: padding-box;
+  background-position: 0% 0%;
+  background-repeat: none;
+  background-size: auto;
+}

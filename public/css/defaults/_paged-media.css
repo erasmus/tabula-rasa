@@ -1,0 +1,8 @@
+.paged-media-defaults {
+  marks: none;
+  orphans: 2;
+  page-break-after: auto;
+  page-break-before: auto;
+  page-break-inside: auto;
+  quotes: '\201C' '\201D' '\2018' '\2019';
+}

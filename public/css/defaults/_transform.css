@@ -1,0 +1,8 @@
+.transform-defaults {
+  backface-visibility: visible;
+  perspective: none;
+  perspective-origin: 50% 50%;
+  transform: none;
+  transform-origin: 50% 50% 0;
+  transform-style: flat;
+}

@@ -1,0 +1,313 @@
+.tabula-rasa a,
+.tabula-rasa abbr,
+.tabula-rasa address,
+.tabula-rasa area,
+.tabula-rasa article,
+.tabula-rasa aside,
+.tabula-rasa audio,
+.tabula-rasa b,
+.tabula-rasa base,
+.tabula-rasa bdi,
+.tabula-rasa bdo,
+.tabula-rasa bgsound,
+.tabula-rasa blockquote,
+.tabula-rasa br,
+.tabula-rasa button,
+.tabula-rasa canvas,
+.tabula-rasa caption,
+.tabula-rasa cite,
+.tabula-rasa code,
+.tabula-rasa col,
+.tabula-rasa colgroup,
+.tabula-rasa command,
+.tabula-rasa content,
+.tabula-rasa data,
+.tabula-rasa datalist,
+.tabula-rasa dd,
+.tabula-rasa del,
+.tabula-rasa details,
+.tabula-rasa dfn,
+.tabula-rasa div,
+.tabula-rasa dl,
+.tabula-rasa dt,
+.tabula-rasa element,
+.tabula-rasa em,
+.tabula-rasa embed,
+.tabula-rasa fieldset,
+.tabula-rasa figcaption,
+.tabula-rasa figure,
+.tabula-rasa font,
+.tabula-rasa footer,
+.tabula-rasa form,
+.tabula-rasa head,
+.tabula-rasa header,
+.tabula-rasa hgroup,
+.tabula-rasa hr,
+.tabula-rasa html,
+.tabula-rasa i,
+.tabula-rasa iframe,
+.tabula-rasa img,
+.tabula-rasa input,
+.tabula-rasa ins,
+.tabula-rasa kbd,
+.tabula-rasa keygen,
+.tabula-rasa label,
+.tabula-rasa legend,
+.tabula-rasa li,
+.tabula-rasa link,
+.tabula-rasa main,
+.tabula-rasa map,
+.tabula-rasa mark,
+.tabula-rasa menu,
+.tabula-rasa menuitem,
+.tabula-rasa meta,
+.tabula-rasa meter,
+.tabula-rasa nav,
+.tabula-rasa nobr,
+.tabula-rasa noframes,
+.tabula-rasa noscript,
+.tabula-rasa object,
+.tabula-rasa ol,
+.tabula-rasa optgroup,
+.tabula-rasa option,
+.tabula-rasa output,
+.tabula-rasa p,
+.tabula-rasa param,
+.tabula-rasa picture,
+.tabula-rasa pre,
+.tabula-rasa progress,
+.tabula-rasa q,
+.tabula-rasa rp,
+.tabula-rasa rt,
+.tabula-rasa rtc,
+.tabula-rasa ruby,
+.tabula-rasa s,
+.tabula-rasa samp,
+.tabula-rasa script,
+.tabula-rasa section,
+.tabula-rasa select,
+.tabula-rasa shadow,
+.tabula-rasa small,
+.tabula-rasa source,
+.tabula-rasa span,
+.tabula-rasa strong,
+.tabula-rasa style,
+.tabula-rasa sub,
+.tabula-rasa summary,
+.tabula-rasa sup,
+.tabula-rasa table,
+.tabula-rasa tbody,
+.tabula-rasa td,
+.tabula-rasa template,
+.tabula-rasa textarea,
+.tabula-rasa tfoot,
+.tabula-rasa th,
+.tabula-rasa thead,
+.tabula-rasa time,
+.tabula-rasa title,
+.tabula-rasa tr,
+.tabula-rasa track,
+.tabula-rasa u,
+.tabula-rasa ul,
+.tabula-rasa var,
+.tabula-rasa video,
+.tabula-rasa wbr {
+  all: initial;
+  background: transparent;
+  background-attachment: scroll;
+  background-blend-mode: normal;
+  background-clip: border-box;
+  background-color: transparent;
+  background-image: none;
+  background-origin: padding-box;
+  background-position: 0% 0%;
+  background-repeat: none;
+  background-size: auto;
+  box-sizing: content-box;
+  content: normal;
+  cursor: auto;
+  ime-mode: auto;
+  nav-down: auto;
+  nav-index: auto;
+  nav-left: auto;
+  nav-right: auto;
+  nav-up: auto;
+  outline: invert none medium;
+  outline-color: invert;
+  outline-offset: 0;
+  outline-style: none;
+  outline-width: medium;
+  resize: none;
+  text-overflow: clip;
+  border: medium none transparent;
+  border-bottom: medium none transparent;
+  border-bottom-color: transparent;
+  border-bottom-left-radius: 0;
+  border-bottom-right-radius: 0;
+  border-bottom-style: none;
+  border-bottom-width: medium;
+  border-color: transparent;
+  border-image: none 100% 1 0 stretch;
+  border-image-outset: 0;
+  border-image-repeat: repeat;
+  border-image-slice: 100%;
+  border-image-source: none;
+  border-image-width: medium;
+  border-left: medium none transparent;
+  border-left-color: transparent;
+  border-left-style: none;
+  border-left-width: medium;
+  border-radius: 0;
+  border-right: medium none transparent;
+  border-right-color: transparent;
+  border-right-style: none;
+  border-right-width: medium;
+  border-style: none;
+  border-top: medium none transparent;
+  border-top-color: transparent;
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  border-top-style: none;
+  border-top-width: medium;
+  border-width: 0;
+  bottom: auto;
+  clear: none;
+  clip: auto;
+  display: inline;
+  float: none;
+  height: auto;
+  left: auto;
+  margin: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  margin-top: 0;
+  max-height: none;
+  max-width: none;
+  min-height: 0;
+  min-width: 0;
+  overflow: visible;
+  overflow-x: visible;
+  overflow-y: visible;
+  padding: 0;
+  padding-bottom: 0;
+  padding-left: 0;
+  padding-right: 0;
+  padding-top: 0;
+  position: static;
+  right: auto;
+  top: auto;
+  visibility: visible;
+  width: auto;
+  vertical-align: baseline;
+  z-index: auto;
+  color: #333;
+  opacity: 1;
+  align-content: stretch;
+  align-items: stretch;
+  align-self: auto;
+  flex: 0 1 auto;
+  flex-basis: auto;
+  flex-direction: row;
+  flex-flow: row nowrap;
+  flex-grow: 0;
+  flex-shrink: 1;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  order: 0;
+  font: normal;
+  font-family: -apple-system, ".SFNSText-Regular", "San Francisco", "Roboto", "Segoe UI", "Helvetica Neue", "Lucida Grande", sans-serif;
+  font-feature-settings: normal;
+  font-kerning: auto;
+  font-language-override: normal;
+  font-size: medium;
+  font-size-adjust: none;
+  font-stretch: normal;
+  font-style: normal;
+  font-synthesis: weight style;
+  font-variant: normal;
+  font-variant-alternates: normal;
+  font-variant-caps: normal;
+  font-variant-east-asian: normal;
+  font-variant-ligatures: normal;
+  font-variant-numeric: normal;
+  font-variant-position: normal;
+  font-weight: normal;
+  image-orientation: 0deg;
+  image-rendering: auto;
+  image-resolution: normal;
+  object-fit: fill;
+  object-position: 50% 50%;
+  counter-increment: none;
+  counter-reset: none;
+  list-style: disc outside none;
+  list-style-image: none;
+  list-style-position: outside;
+  list-style-type: disc;
+  filter: none;
+  filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
+  mask: none;
+  mask-type: luminance;
+  break-after: auto;
+  break-before: auto;
+  break-inside: auto;
+  columns: auto;
+  column-count: auto;
+  column-fill: balance;
+  column-gap: normal;
+  column-rule: medium none currentColor;
+  column-rule-color: currentColor;
+  column-rule-style: none;
+  column-rule-width: none;
+  column-span: 1;
+  column-width: auto;
+  widows: 2;
+  marks: none;
+  orphans: 2;
+  page-break-after: auto;
+  page-break-before: auto;
+  page-break-inside: auto;
+  quotes: '\201C' '\201D' '\2018' '\2019';
+  border-collapse: separate;
+  border-spacing: 0;
+  caption-side: top;
+  empty-cells: show;
+  table-layout: auto;
+  direction: rtl;
+  hanging-punctuation: first;
+  hyphens: manual;
+  letter-spacing: normal;
+  line-break: auto;
+  line-height: normal;
+  overflow-wrap: normal;
+  tab-size: 8;
+  text-align: left;
+  text-align-last: auto;
+  text-combine-upright: none;
+  text-decoration: none;
+  text-decoration-color: inherit;
+  text-decoration-line: none;
+  text-decoration-style: solid;
+  text-indent: 0;
+  text-justify: auto;
+  text-orientation: mixed;
+  text-shadow: none;
+  text-transform: none;
+  text-underline-position: auto;
+  white-space: normal;
+  word-break: normal;
+  word-spacing: normal;
+  word-wrap: normal;
+  writing-mode: horizontal-tb;
+  backface-visibility: visible;
+  perspective: none;
+  perspective-origin: 50% 50%;
+  transform: none;
+  transform-origin: 50% 50% 0;
+  transform-style: flat;
+  transition: none;
+  transition-delay: 0s;
+  transition-duration: 0s;
+  transition-property: all;
+  transition-timing-function: ease;
+}

@@ -1,0 +1,6 @@
+.misc-defaults {
+  filter: none;
+  filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
+  mask: none;
+  mask-type: luminance;
+}
